@@ -27,7 +27,7 @@ Server: Apache (XAMPP, WAMP, or LAMP recommended)
 
 Clone the repository
 
-git clone https://github.com/your-username/online-food-ordering-system.git
+git clone https://github.com/Markfruelda19/Food-Ordering-System
 
 Move the project to server directory
 
@@ -54,7 +54,7 @@ Run the system
 
 Start Apache and MySQL in XAMPP/WAMP
 Open browser and go to:
-http://localhost/online-food-ordering-system
+http://localhost/food-store
 
 🔑 Default Credentials
 Admin Login
