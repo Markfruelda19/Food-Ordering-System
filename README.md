@@ -66,6 +66,7 @@ Password: admin
 
 
 ![category](https://github.com/user-attachments/assets/ca2d11c4-4c96-43f9-9314-732117c74e7e)
-![Menu](https://github.com/user-attachments/assets/daf1e7ec-756a-4c87-8efb-b18e6201f58d)
+![orders](https://github.com/user-attachments/assets/a94fe986-ec7b-42f0-80d5-fe33ababfe1b)
+
 
 
