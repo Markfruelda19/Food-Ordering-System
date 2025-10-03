@@ -3,6 +3,7 @@
 This project is a PHP & MySQL-based Online Food Ordering System. It allows customers to browse available food, add items to their cart, and place an order online. The system is designed for restaurants or small food businesses that want to digitize their ordering process.
 
 🚀 Features
+
 👨‍🍳 Customer Side
 View menu items with details
 Add items to cart
@@ -59,4 +60,5 @@ http://localhost/online-food-ordering-system
 Admin Login
 
 Username: admin
+
 Password: admin
