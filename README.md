@@ -62,4 +62,10 @@ Admin Login
 Username: admin
 
 Password: admin
-![dashboard](https://github.com/user-attachments/assets/5e79590d-7837-4422-a3c6-346ed6e8662c)
+
+
+
+![category](https://github.com/user-attachments/assets/ca2d11c4-4c96-43f9-9314-732117c74e7e)
+![Menu](https://github.com/user-attachments/assets/daf1e7ec-756a-4c87-8efb-b18e6201f58d)
+
+
